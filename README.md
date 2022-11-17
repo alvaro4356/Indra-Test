@@ -10,4 +10,4 @@ Elabore una aplicación web, utilizando ASP.net WebForms, donde se solicite un n
 el 50 y 500 y se genere los números pares entre 0 y el número ingresado y los muestre en
 pantalla.
 
-### La Solucion de la Pregunta 01 se encuentra en el archivo "Program.cs", el de la 2da pregunta en  "Default.aspx.cs"
+### La Solucion de Código de la Pregunta 01 se encuentra en el archivo "Program.cs", el de la 2da pregunta en  "Default.aspx.cs"
