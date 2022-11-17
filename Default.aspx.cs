@@ -24,7 +24,7 @@ namespace WebApplication_SACA
             try
             {
                 numero = Convert.ToInt32(txt_numero.Text);
-                if (numero >= 0 && numero <= 500)
+                if (numero >= 50 && numero <= 500)
                 {
                     string resultado = string.Empty;
 
